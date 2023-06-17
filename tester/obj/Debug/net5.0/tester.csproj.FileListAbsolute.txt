@@ -1,0 +1,16 @@
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.exe
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.deps.json
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.runtimeconfig.json
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.runtimeconfig.dev.json
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.dll
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\ref\tester.dll
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\bin\Debug\net5.0\tester.pdb
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.csproj.AssemblyReference.cache
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.AssemblyInfoInputs.cache
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.AssemblyInfo.cs
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.csproj.CoreCompileInputs.cache
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.dll
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\ref\tester.dll
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.pdb
+C:\Users\nrpus\workspace\csharpbook1\tester\tester\obj\Debug\net5.0\tester.genruntimeconfig.cache
